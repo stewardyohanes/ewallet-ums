@@ -1,1 +1,3 @@
-./ewallet-ums/.env
+.env
+.vscode/
+.cursor
